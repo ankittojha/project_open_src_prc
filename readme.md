@@ -4,6 +4,6 @@
 
 ### Tools-
 
-1- React.js
-2- Bootstrap
-3- OMDB API
+1- React.js <br>
+2- Bootstrap <br>
+3- OMDB API <br>
